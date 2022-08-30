@@ -1,0 +1,10 @@
+font:
+  size: 8.5
+
+window:
+  opacity: 0.8
+
+colors:
+  primary:
+    background: "0x000000"
+    foreground: "0xffffff"
